@@ -1,4 +1,4 @@
-# pytorch_function_exceptions
+# torch.tensor function exceptions in PyTorch
 5 exceptions to the most regularly used pytorch.tensor functions
 
 
